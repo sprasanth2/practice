@@ -1,0 +1,19 @@
+td{
+    text-align: center;
+    padding: 10px;
+
+}
+table{
+    border: 2px solid green;
+}
+th{
+    font-size: large;
+}
+header{
+    text-align: center;
+    padding: 40px;
+    background-color:dodgerblue;
+    color:white;
+    
+}
+

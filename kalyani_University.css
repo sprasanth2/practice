@@ -1,0 +1,16 @@
+body{
+    background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+   background-image: url("clz.jpeg");
+   background-attachment: fixed;
+}
+
+header{
+   background-color:#0e105a;
+    padding: 5px;
+   text-align: center;
+   font-size: 25px;
+   color:#ad3131;
+   
+}

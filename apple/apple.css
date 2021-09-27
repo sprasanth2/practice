@@ -1,0 +1,151 @@
+.header1{
+    /* display: flex;
+    height: 50px;
+    text-align: center;
+    /* justify-content: space-between; 
+    width: 100%;
+    margin: auto;
+    transition: 0.15s;
+    background-color: #333;
+    position: absolute;
+    color: white;
+    margin-bottom: 30px;  */
+    
+    background-color: #333;
+    padding: 0px;
+    
+    text-align:center;
+    color:white;
+}
+ul{
+    list-style: none;
+    text-align: right;
+    
+
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    margin-left :50px;
+}
+
+*{
+    margin: 0;
+    padding:0;
+}
+.header2{
+    background-color: whitesmoke;
+    padding: 6px;
+    font-size:medium;
+    text-align:center;
+}
+.side_by_side{
+   background-image: url("side by side phone_copy.jpeg");
+   background-size: cover;
+   height: 600px;
+    width: 100%;
+}
+.cross{
+    background-image: url("cross 2 iphones_copy.jpeg");
+    background-size: cover;
+    height:550px;
+    width:100%;
+}
+.watches_2{
+    background-image: url("2 watches_copy.jpeg");
+    background-size: cover;
+    height: 580px;
+    width:100%;
+    margin-top: 10px;
+}
+
+
+
+.last_chance{
+    background-image:url("last chance_copy.jpeg");
+    background-size:cover;
+    height: 610px;
+    width:50%;
+    margin-top: 10px;
+   
+
+}
+.i_pad_mini{
+    background-image:url("i pad mini_copy.jpeg");
+    background-size: cover;
+    height:610px;
+    width:50%;
+    margin-top: 10px;
+    
+}
+.stand{
+    background-image: url("promo_imac_copy.jpg");
+    background-size: cover;
+    height:750px;
+    width:50%;
+    margin-top: 10px;
+}
+.icon{
+    background-image: url("air.jpg");
+    background-size: cover;
+    height:750px;
+    width:50%;
+    margin-top: 10px;
+    
+}
+.more_phones{
+    background-image: url("more phones.jpeg");
+    background-size: cover;
+    height:630px;
+    width:50%;
+    margin-top: 10px;
+}
+.girls_2{
+    background-image: url("2 girls_copy.jpeg");
+    background-size:cover;
+    height:630px;
+    width:50%;
+    margin-top: 10px;
+
+}
+.flex12{
+    display:flex;
+    /* justify-content: space-evenly;  */
+    
+ }
+ .flex1212
+  {
+   display: flex;
+   align-items: center;
+justify-content: center;
+flex-direction: column;
+flex-wrap: wrap;
+}
+.font
+{
+   font-size: 3.1rem;
+   line-height: 1.08;
+   letter-spacing: 0.005rem;
+   margin-top: 40px;
+   text-align: center;
+}
+.font1
+{
+   font-size: 2.25rem;
+ margin-top: 0.6rem;
+ letter-spacing: 0.008rem;
+ font-weight: 400;
+ text-align: center;
+}
+.title-price {
+   font-size: 1.3rem;
+   color: #888;
+   margin-top: 0.68rem;
+   text-align: center;  
+}
+.cta {
+    text-align: center;
+    margin-top: 1.8rem;
+  }
+  
+

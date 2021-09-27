@@ -1,0 +1,89 @@
+
+.background{
+    background-image: url("clz.jpeg");
+   background-size:cover;  
+   height: 670px;
+   width: 1510px;
+}
+
+.title{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 50px;
+   font-weight:bold;
+   
+   text-align: center;
+   background-color:#0e105a;
+    padding: 0;
+   margin:0;
+   
+   color:#ad3131;
+ 
+}
+.details{
+   text-align: center;
+   background-color: rgba(18, 20, 20, 0.733);
+   background-position: center;
+   height: 450px;
+   width: 330px;
+   margin: 30px;
+   opacity:0.5;
+   margin-left:500px;
+   
+}
+
+.card-title{
+   font-family: "Roboto";
+   font-size: 25px;
+   font-weight: bold;
+   color: white;
+   padding: 10px;
+   text-align: center;
+   
+   text-decoration-color: red;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+}
+img{
+   height: 100px;
+   width: 100px;
+   
+}
+
+p{
+   border: 2px solid white;
+   color:white;
+   padding: 3px;
+   width: 200px;
+   font-size: 20px;
+   text-align: center;
+   margin-left: 50px;
+   font-weight: bold;
+   
+}
+.space{
+   padding:90px;
+}
+li {
+   float:right;
+ }
+ 
+ li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding :10px;
+   text-decoration: none;
+ }
+ 
+ li a:hover {
+   color:blue;
+}
+hr.new{
+    border: 3px solid red;
+}

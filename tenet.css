@@ -1,0 +1,20 @@
+a.nav-link{
+    padding-left: 130px;
+    color:white;
+}
+.container-fluid{
+    margin-left:100px;
+}
+.text-danger{
+    margin-left:10px;
+}
+.blog2{
+    margin-left: 200px;
+}
+p.pcontent{
+   color:red;
+   padding-top: 20px;
+}
+.form-control{
+    background-color: rgb(243,194,174);
+}

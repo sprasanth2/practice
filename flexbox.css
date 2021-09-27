@@ -1,0 +1,63 @@
+.navigation{
+    font-size: 30px;
+}
+.slider{
+    background-image: url("assets/slider.jpg");
+    background-size: cover;
+    background-color: #25292e;
+    width: 100%;
+    height: 450px;
+    opacity: 0.7;
+}
+.flat{
+    color:white;
+    font-style:inherit;
+    padding-top: 18%;
+}
+.flat_2{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    
+}
+.bg{
+    background-color: rgb(221, 102, 23);
+}
+.text{
+    margin-top:100px;
+    
+    border-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.icon{
+    color: grey;
+   height: 100px;
+   width: 100px;
+   margin-left: 80px;
+   padding-top: 30px;
+   border-radius: 50%;
+   border-color: black;
+   border:1px solid ;
+}
+.color{
+    background-color:rgb(221,213,213);
+}
+.extra_button{
+    margin-top:40px;
+        
+    border-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.text55{
+    text-align: center;
+   margin-top:15px;
+   margin-bottom: 15px;
+   color:white;
+}

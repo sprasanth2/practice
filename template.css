@@ -1,0 +1,105 @@
+.text{
+    font-size: 38px;
+    color:#ff7300;
+    margin-left: 30%;
+
+}
+.sq{
+    font-size: 30px;
+    color:skyblue;
+    margin-top: 0px;
+    margin-left:0%;
+}
+.warning{
+    background-color: skyblue;
+}
+.image1{
+    background-image: url("more.jpg");
+    background-size: cover;
+    background-color:rgba(29, 30, 32, 0.863);
+    width:100%;
+    height: 550px;
+    
+    opacity: 0.7;
+}
+.heading{
+    color:white;
+    font-size: 50px;
+    padding-top:10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.xyz{
+    margin-left: 200px;
+
+}
+.text_button{
+    background-color: tomato;
+    color:wheat;
+    border-color: none;
+    margin-left: 650px;
+    margin-top: 15%;
+    width:200px;
+    height:50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.profilio{
+    color:rgb(224, 70, 43);
+    padding-left:15%;
+    margin-top:8%;
+}
+.btn{
+    color:white;
+    background-color: rgb(232, 135, 235);
+    float: right;
+    margin-right:150px;
+    margin-top:18%;
+    font-weight: bold;
+    
+}
+
+
+.ml{
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-top: 50px;
+    
+}
+.icon{
+    background-color: powderblue;
+    padding-top:50px;
+    
+}
+.f{
+    font-size: 25px;
+    color:rgb(33, 104, 170)
+}
+.offer{
+    background-color: powderblue;
+    padding-top: 20px;
+}
+.header4{
+    background-color: powderblue;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.details{
+    background-color: tomato;
+    margin-left: 240px;
+}
+.txt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:gray;
+
+}
+.ceo{
+    font-weight: bold;
+    color:tomato;
+}
+.male{
+    margin-left: 560px;
+}
+.bird{
+    margin-left:100px;
+}

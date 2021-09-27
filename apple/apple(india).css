@@ -1,0 +1,319 @@
+*{
+    margin: 0;
+   padding:0;
+}
+.container
+{
+display:flex;
+border: 2px solid black;
+justify-content: center;
+/* justify-content: flex-end;
+justify-content: flex-start; */
+align-items: center;
+flex-wrap: wrap;
+justify-content: space-evenly;
+background-color:black;
+color: white;
+/* margin-left: 40px; */
+
+}
+.flexbo
+{
+
+margin:12px;
+
+}
+.pos{
+   position: sticky;
+   top: 0;
+
+}
+
+.heading{
+   width:100%;
+   height: 30px;
+   background-color:whitesmoke;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+
+
+}
+.heading1{
+   
+   
+}
+/* .section1
+{
+   display: flex;
+   align-items: center;
+justify-content: center;
+flex-direction: column;
+flex-wrap: wrap;
+} */
+.section2{
+   background-image: url("side by side phone_copy.jpeg");
+   width:100% ;
+   height: 600px;
+   
+}
+.text1{
+   margin-top: 40px;
+}
+/* .section3
+{
+   display: flex;
+   align-items: center;
+justify-content: center;
+flex-direction: column;
+flex-wrap: wrap;
+} */
+.section4{
+   border:2px solid white;
+   background-image: url("cross 2 iphones_copy.jpeg");
+   width:100%;
+   height: 550px;
+   margin-top: 15px;
+}
+.section5{
+   border:2px solid white;
+   background-image: url("2 watches_copy.jpeg");
+   width:100%;
+   height: 700px;
+   margin-top: 10px;
+   background-repeat: no-repeat;
+   
+}
+
+
+
+.flex12{
+   display:flex;
+   /* justify-content: space-evenly;  */
+   
+}
+.flex1{
+background-image: url("last chance_copy.jpeg");
+background-size: cover;
+width: 100%;
+height: 610px;
+margin-left: 10px;
+margin-right:5px;
+margin-top: 10px;
+background-position:center;
+
+}
+
+.flex2{
+   background-image: url("i pad mini_copy.jpeg");
+   background-size: cover;
+width: 100%;
+height: 600px;
+margin-left:5px ;
+margin-right: 10px;
+margin-top: 10px;
+background-position:center;
+}
+.imax12{
+   display:flex;
+   /* justify-content: space-evenly;  */
+   
+}
+.imax1{
+   background-image: url("promo_imac_copy.jpg");
+   background-size: cover;
+width: 100%;
+height: 750px;
+margin-left:10px ;
+margin-right: 5px;
+margin-top: 10px;
+margin-bottom: 5px;
+background-position:center;
+}
+.imax2{
+   background-image: url("2 girls_copy.jpeg");
+   background-size: cover;
+width: 100%;
+height: 750px;
+margin-left:5px ;
+margin-right: 10px;
+margin-top: 10px;
+background-position:center;
+margin-bottom: 5px;
+}
+
+
+.imac12{
+   display:flex;
+   /* justify-content: space-evenly;  */
+   
+}
+.imac1{
+   background-image: url("more phones.jpeg");
+   background-size: cover;
+width: 100%;
+height: 630px;
+margin-left:10px ;
+margin-right: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+background-position:center;
+}
+.imac2{
+   background-image: url("air.jpg");
+   background-size: cover;
+width: 100%;
+height: 630px;
+margin-left:5px ;
+margin-right: 10px;
+margin-top: 10px;
+background-position:center;
+margin-bottom: 10px;
+}
+
+
+
+.logo1{
+  background-image: url("tv.png");
+  width: 100px;
+  height: 100px;
+ 
+  margin-left: 320px;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+
+ 
+}
+
+
+.logo2{
+  background-image: url("morning_show.png");
+  width: 300px;
+  height: 100px;
+  margin-left: 170px;
+  margin-top: 450px;
+  background-repeat: no-repeat;
+  /* margin-left: 170px;
+  margin-top:400px;
+  margin-bottom: 100px; */
+  }
+
+
+
+.flex1212
+  {
+   display: flex;
+   align-items: center;
+justify-content: center;
+flex-direction: column;
+flex-wrap: wrap;
+}
+
+
+
+
+
+.font
+{
+   font-size: 3.1rem;
+   line-height: 1.08;
+   letter-spacing: 0.005rem;
+   margin-top: 40px;
+   text-align: center;
+}
+.font1
+{
+   font-size: 2.25rem;
+ margin-top: 0.6rem;
+ letter-spacing: 0.008rem;
+ font-weight: 400;
+ text-align: center;
+}
+.title-price {
+   font-size: 1.3rem;
+   color: #888;
+   margin-top: 0.68rem;
+   text-align: center;  
+}
+
+
+ .cta {
+   text-align: center;
+   margin-top: 1.8rem;
+ }
+ 
+ .cta-link {
+   color: #66bbff;
+   font-size: 1.1rem;
+   display: inline-block;
+   text-decoration: none;
+ }
+ 
+ .cta-link:nth-child(2) {
+   margin-left: 2.6rem;
+ }
+ 
+ .cta-link:hover {
+   border-bottom: 2px solid #66bbff;
+ }
+
+
+
+ .cta-mini {
+   text-align: center;
+   margin-top: 1.8rem;
+ }
+ 
+ .cta-link-mini {
+   color: #66bbff;
+   font-size: 1.1rem;
+   display: inline-block;
+   text-decoration: none;
+ }
+ 
+ .cta-link-mini:nth-child(2) {
+   margin-left: 2.6rem;
+ }
+ 
+ .cta-link-mini:hover {
+   border-bottom: 2px solid #66bbff;
+ }
+
+
+
+
+
+
+ .font-font
+{
+   font-size: 1.5rem;
+   line-height: 1.08;
+   letter-spacing: 0.005rem;
+   margin-top: 40px;
+   text-align: center;
+}
+.font11
+{
+   font-size: 1.15rem;
+ margin-top: 0.6rem;
+ letter-spacing: 0.008rem;
+ font-weight: 400;
+ text-align: center;
+}
+.title-price1 {
+   font-size: 0.7rem;
+   color: #888;
+   margin-top: 0.68rem;
+   text-align: center;  
+}
+
+
+
+
+footer{
+   text-align: center;
+   background-color: black;
+   color: white;
+   font-size: medium;
+ }
